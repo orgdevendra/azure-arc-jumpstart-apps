@@ -33,4 +33,4 @@ spec:
         - containerPort: 8080
         env:
         - name: MESSAGE
-          value: Welcome to Azure Arc GitOps Demo! This demo for internal MBG group
+          value: Welcome to GitOps Demo
